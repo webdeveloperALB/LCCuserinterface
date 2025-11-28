@@ -1,0 +1,15 @@
+{
+  "/page": "app/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/api/external-accounts/route": "app/api/external-accounts/route.js",
+  "/api/transaction-history/route": "app/api/transaction-history/route.js",
+  "/api/presence/route": "app/api/presence/route.js",
+  "/api/transfers/route": "app/api/transfers/route.js",
+  "/api/fund-accounts/route": "app/api/fund-accounts/route.js",
+  "/api/user-bank-details/route": "app/api/user-bank-details/route.js",
+  "/api/crypto-wallets/route": "app/api/crypto-wallets/route.js",
+  "/api/balances/route": "app/api/balances/route.js",
+  "/api/crypto-transactions/route": "app/api/crypto-transactions/route.js",
+  "/api/taxes/route": "app/api/taxes/route.js",
+  "/api/transaction-history/update/route": "app/api/transaction-history/update/route.js"
+}

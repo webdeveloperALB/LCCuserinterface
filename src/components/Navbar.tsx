@@ -348,8 +348,8 @@ export default function Navbar() {
                 <h3 className="text-xl font-bold text-gray-900">Search</h3>
                 <button
                   onClick={() => setIsSearchOpen(false)}
-                  className="text-gray-400 hover:text-gray-600 transition-colors"
                   aria-label="Close search"
+                  className="text-gray-400 hover:text-gray-600 transition-colors"
                 >
                   <X className="w-6 h-6" />
                 </button>
@@ -367,8 +367,8 @@ export default function Navbar() {
                   />
                   <button
                     type="submit"
-                    aria-label="Submit search"
                     className="absolute right-2 top-1/2 transform -translate-y-1/2 p-2 bg-[#0a7f8f] text-white hover:bg-[#096a78] transition-colors"
+                    aria-label="Search"
                   >
                     <Search className="w-5 h-5" />
                   </button>
